@@ -4,3 +4,7 @@ This is code that I have written over the years. I will update this and date cod
      Written for RIT MATH 622 in April 2017
      This simulates a hunting expedition between hunters and feral hogs.
      I have added the milage parameter for ease of use. See Modeling_Project2_MONTE_CARLO.m for original.
+     
+See root readme.txt for FAQ's. 
+
+Michael R. Spink
